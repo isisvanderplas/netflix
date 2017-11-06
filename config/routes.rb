@@ -7,6 +7,5 @@ Rails.application.routes.draw do
   get "movies" => "movies#index"
 
 
-  get "movies/actors" => "actors#index" as: :actor
-
+  get "actors" => "actors#index" 
 end
