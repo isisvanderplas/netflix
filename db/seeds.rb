@@ -1,3 +1,4 @@
+
 #Star Wars actors
 actor1 = Actor.create!( { name: "Daisy Ridley", nationality: "English", image: "https://metrouk2.files.wordpress.com/2016/03/it-s-a-new-dawn-it-s-a-new-rey-what-daisy-ridley-did-after-star-wars-vii-the-force-awak-776886-e1457696361853.jpg?w=748&h=493&crop=1" } )
 actor2 = Actor.create!( { name: "Adam Driver", nationality: "American", image: "http://media.comicbook.com/2017/05/star-wars-the-last-jedi-adam-driver-refused-to-hang-out-with-mar-999686-1280x0.jpg" } )
